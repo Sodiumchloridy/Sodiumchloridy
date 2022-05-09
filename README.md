@@ -1,7 +1,10 @@
 # Sodiumchloridy
 
 Just a normal weeb.
-<a href="https://discord.com/users/418732009926688768"></img src="https://discord.c99.nl/widget/theme-3/Sodiumchloridy#0325.png"></a>
+
+<div align="center">
+<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/Sodiumchloridy#0325.png"/></a>
+</div>
 
 ## Github Stats
 
