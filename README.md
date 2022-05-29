@@ -6,10 +6,10 @@ Just a normal weeb.
 
 <div align="center">
 <div>
-<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/418732009926688768.png" width="500px"></a>
+<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/418732009926688768.png" width="450px"></a>
 </div>
 <div>
-<a href="https://malsignature.com"><img src="https://malsignature.com/?/view?username=SodiumChloridy&style=normal" width="500px"></a>
+<a href="https://myanimelist.net/profile/Sodiumchloridy"><img src="https://malsignature.com/?/view?username=SodiumChloridy&style=normal" width="450px"></a>
 </div>
 </div>
 
