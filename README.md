@@ -1,5 +1,5 @@
 # Sodiumchloridy
-Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends and binge watching anime / reading manga. Dislikes homework, vegetables and woken up by alarm.
+Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.
 <div align="center">
 "No waifu no laifu."
 </div>
