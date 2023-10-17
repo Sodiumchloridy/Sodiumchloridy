@@ -6,17 +6,21 @@ Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys 
 
 ## Discord
 <div align="center">
-<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/418732009926688768.png" width="450px"></a>
+  <a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/418732009926688768.png" width="450px"></a>
 </div>
 
 ## MyAnimeList
 <div align="center">
-<a href="https://myanimelist.net/profile/Sodiumchloridy"><img src="https://malsignature.com/?/view?username=SodiumChloridy&style=normal" width="450px"></a>
+  <a href="https://myanimelist.net/profile/Sodiumchloridy"><img src="https://malsignature.com/?/view?username=SodiumChloridy&style=normal" width="450px"></a>
 </div>
 
 ## Github Stats
-![Sodiumchloridy's Stats](https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Sodiumchloridy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  ![Sodiumchloridy's Stats](https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+<div align="center">
+  ![Sodiumchloridy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 ## A Book That Made Me Cry
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/275856688-1bc09844-126b-4e47-ab73-cabff26f8dd0.jpg)
