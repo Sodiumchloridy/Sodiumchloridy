@@ -1,7 +1,7 @@
 # Sodiumchloridy
 Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.
 <div align="center">
-<b>"No waifu no laifu."</b>
+  <h2>"No waifu no laifu."</h2>
 </div>
 <br>
 <div align="center">
