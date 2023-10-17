@@ -16,8 +16,8 @@ Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys 
 
 ## Github Stats
 <div align="center">
-  <img height="500px" align="center" alt="Sodiumchloridy's Stats" src="https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="500px" align="center" alt="Sodiumchloridy's Top Languages" src="[https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+  <img style="display: inline-block" height="250px" align="center" alt="Sodiumchloridy's Stats" src="https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img style="display: inline-block" height="250px" align="center" alt="Sodiumchloridy's Top Languages" src="https://github-readme-stats.vercel.app/api?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiumchloridy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
 </div>
 
 ## A Book That Made Me Cry
