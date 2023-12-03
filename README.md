@@ -1,6 +1,6 @@
 # About Me
 <div>
-  <img align="right" src="https://private-user-images.githubusercontent.com/67376832/287522724-86e27c5a-bc81-4c6a-bbd0-d0b945bef963.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2MTE5MzEsIm5iZiI6MTcwMTYxMTYzMSwicGF0aCI6Ii82NzM3NjgzMi8yODc1MjI3MjQtODZlMjdjNWEtYmM4MS00YzZhLWJiZDAtZDBiOTQ1YmVmOTYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAzVDEzNTM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiOGNmYzkwNWIyYjg0Y2M3ZGIzN2JiOGJjODc1MjE4OGE1MWM2Y2ZhYmY3ZWM0OTE4NjFiNDAzOGQ2NDk5NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4PL213kH6YD01IgtkRuwv0UcxtY2t3mD1rJR-kNu-Rk"/>
+  <img align="right" src="https://i.ibb.co/YWHg6jF/menhara-eating-popcorn.gif"/>
   <p>Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.</p>
 </div>
 <div align="center">
