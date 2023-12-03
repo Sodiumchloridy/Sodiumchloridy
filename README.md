@@ -1,4 +1,5 @@
 <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/287520100-f9654f18-510a-4d09-9d53-a4d9ae050eb8.gif"/>
+
 # About Me
 Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.
 <div align="center">
