@@ -1,5 +1,19 @@
 # About Me
-<img style="position: absolute; top: 100px; left: 0" align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/287520100-f9654f18-510a-4d09-9d53-a4d9ae050eb8.gif"/>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            img {
+                position: absolute;
+                left: 10px;
+                top: 100px
+            }
+            </style>
+            <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/287520100-f9654f18-510a-4d09-9d53-a4d9ae050eb8.gif"/>
+        </div>
+    </foreignObject>
+</svg>
+
 Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.
 <div align="center">
   <b>"No waifu no laifu."</b>
