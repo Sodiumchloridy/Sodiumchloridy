@@ -1,12 +1,14 @@
 # About Me
-Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.
+<div>
+  <p>Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.</p>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/287520100-f9654f18-510a-4d09-9d53-a4d9ae050eb8.gif"/>
+</div>
 <div align="center">
   <b>"No waifu no laifu."</b>
 </div>
 <br>
 <div align="center">
     <img width="450px" alt="Sodiumchloridy's Top Languages" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/275856688-1bc09844-126b-4e47-ab73-cabff26f8dd0.jpg"/>
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/287520100-f9654f18-510a-4d09-9d53-a4d9ae050eb8.gif"/>
 </div>
 
 ## Discord
