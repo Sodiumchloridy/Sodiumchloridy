@@ -1,6 +1,5 @@
 # About Me
 <div>
-  <img align="right" src="https://i.ibb.co/YWHg6jF/menhara-eating-popcorn.gif"/>
   <p>Veteran weeb specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes homework, vegetables and woken up by alarm.</p>
 </div>
 <div align="center">
