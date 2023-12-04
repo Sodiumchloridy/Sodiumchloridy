@@ -12,7 +12,7 @@
 
 ## Discord
 <div align="center">
-<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-3/418732009926688768.png" width="450px"></a>
+<a href="https://discord.com/users/418732009926688768"><img src="https://discord.c99.nl/widget/theme-1/418732009926688768.png" width="450px"></a>
 </div>
 
 ## MyAnimeList
