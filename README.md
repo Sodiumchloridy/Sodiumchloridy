@@ -8,7 +8,7 @@
     <img width="450px" alt="Sodiumchloridy's Top Languages" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/275856688-1bc09844-126b-4e47-ab73-cabff26f8dd0.jpg"/>
 </div>
 
-# MyAnimeList
+# 🍿 MyAnimeList
 <div align="center">
 <a href="https://myanimelist.net/profile/Sodiumchloridy"><img src="https://malsignature.com/?/view?username=SodiumChloridy&style=normal" width="450px"></a>
 </div>
