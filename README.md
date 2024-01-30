@@ -3,6 +3,8 @@
   <p>Casual anime enjoyer specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes work, vegetables and woken up by alarm.</p>
 </div>
 
+<div align="cener">A wise man once said: "If you know Assembly, every software is open source."</div>
+
 <br>
 <div align="center">
     <img width="450px" alt="Sodiumchloridy's Top Languages" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/275856688-1bc09844-126b-4e47-ab73-cabff26f8dd0.jpg"/>
