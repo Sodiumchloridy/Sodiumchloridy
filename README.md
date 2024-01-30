@@ -3,7 +3,7 @@
   <p>Casual anime enjoyer specialising in simping for 2 dimensional lines and colors. Enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes work, vegetables and woken up by alarm.</p>
 </div>
 
-<div align="cener">A wise man once said: "If you know Assembly, every software is open source."</div>
+<div align="center">A wise man once said: "If you know Assembly, every software is open source."</div>
 
 <br>
 <div align="center">
