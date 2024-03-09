@@ -48,4 +48,4 @@
 [![](https://github-profile-trophy.vercel.app/?username=Sodiumchloridy&row=1&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sodiumchloridy&icon=0&color=0)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=Sodiumchloridy&icon=0&color=0)](https://visitcount.itsvg.in)
