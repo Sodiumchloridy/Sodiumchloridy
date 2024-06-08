@@ -5,7 +5,8 @@
 
 Favourite quotes:
 > A wise man once said: "If you know Assembly, every software is open source."
-> "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis, creator of TempleOS 😂
+
+> "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis, creator of TempleOS and HolyC 😭
 
 <br>
 <div align="center">
