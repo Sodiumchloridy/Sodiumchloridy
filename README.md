@@ -3,7 +3,7 @@
   <p>Casual anime enjoyer who enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes work, vegetables and woken up by alarm.</p>
 </div>
 
-Favourite quotes:
+My favourite quotes:
 > A wise man once said: "If you know Assembly, every software is open source."
 
 > "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis, creator of TempleOS and HolyC 😭
