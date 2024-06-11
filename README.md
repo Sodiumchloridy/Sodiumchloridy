@@ -8,7 +8,6 @@ My favourite quotes:
 
 > "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis
 
-<br>
 
 # 🍿 MyAnimeList
 <div align="center">
