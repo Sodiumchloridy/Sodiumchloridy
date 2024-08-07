@@ -1,6 +1,6 @@
 # About Me
 <div>
-  <p>Casual anime enjoyer who enjoys having fun, playing games with friends, watching anime, reading manga and basically chiling around. Dislikes work, vegetables and woken up by alarm.</p>
+  <p>Casual anime enthusiast who enjoys having fun, playing games with friends, and basically chiling around. Dislikes work, vegetables and woken up by alarm. Minimalism enjoyer.</p>
 </div>
 
 My favourite quotes:
@@ -11,7 +11,7 @@ My favourite quotes:
 
 # 🍿 MyAnimeList
 <div align="center">
-  <a href="https://malsignature.com"><img src="https://malsignature.com/?/view?username=sodiumchloridy&style=small" width="450px" /></a>
+  <a href="https://malsignature.com"><img src="https://malsignature.com/?/view?username=sodiumchloridy&style=small" /></a>
 </div>
 
 # 📊 GitHub Stats:
