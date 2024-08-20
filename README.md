@@ -11,7 +11,7 @@ My favourite quotes:
 
 # 🍿 MyAnimeList
 <div align="center">
-  <a href="https://malsignature.com"><img src="https://malsignature.com/?/view?username=sodiumchloridy&style=small" /></a>
+  <a href="https://malsignature.com"><img src="https://malsignature.com/?/view?username=sodiumchloridy" /></a>
 </div>
 
 # 📊 GitHub Stats:
