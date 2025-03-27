@@ -1,5 +1,5 @@
 # About Me
-Lemme cook.
+Lemme cook. Ok
 
 > "An idiot admires complexity, a genius admires simplicity." -- Terry A. Davis
 
