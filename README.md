@@ -1,4 +1,4 @@
 # About Me
 Lemme cook.
 
-> Code is a liability, not an asset. The knowledge to build however, is.
+> Code is a liability, not an asset; the true asset is the business value or capability the code enables.
